@@ -9,6 +9,9 @@ As part of my journey through the Information Technology Institute (ITI) in Summ
 
 [![Watch the video](https://github.com/user-attachments/assets/156a5e4c-05a0-4a98-aedf-8ea96abff2f2)](https://github.com/ms-ferhat/Bag-Tracking/blob/main/Bag_Tracking.mp4)
 
+https://github.com/user-attachments/assets/ea0f665d-7d94-4e4e-bd05-02fe321068be
+
+
 
 
  
