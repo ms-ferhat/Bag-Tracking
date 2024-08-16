@@ -8,6 +8,6 @@ As part of my journey through the Information Technology Institute (ITI) in Summ
 ⚫ Proactive Alerts: The app sends an automatic email alert if the bag moves more than 100 meters away from the user or when the Bab open, adding an extra layer of security and responsiveness.  
 
 
-[Watch the video](https://www.youtube.com/watch?v=VIDEO_ID)
+[Watch the video](https://github.com/ms-ferhat/Bag-Tracking/blob/main/Bag_Tracking.mp4)
 
  
